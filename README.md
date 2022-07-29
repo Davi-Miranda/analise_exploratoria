@@ -11,7 +11,7 @@ insights a partir dos dados.
 
 # Finalidade do estudo:
 O projeto visa analisar o datasets de salário de trabalhos em Ciência de Dados. A área de dados vem crescendo de maneira contundente,
-por isso a importância de entender o comportamento salarial dos diversos cargos, e níveis de experiência do âmbito.
+por isso a importância de entender o comportamento salarial dos diversos cargos, e níveis de experiência do âmbito.<br>
 O problema que apresento é observar o comportamento salarial das profissões de Ciêntista de Dados, Analista de dados, e
 Engenheiro de Dados, afim de compara-los.
 

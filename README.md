@@ -1,4 +1,4 @@
-# Análise Exploratória
+# Análise de salários da área de dados.
 
 # Motivação:
 A análise exploratória é fundamental para a compreensão inicial dos dados, antes da aplicação de qualquer técnica estatística,
